@@ -1,4 +1,4 @@
-# Learning React
+# Learning React🚀
 
 ## Introduction
 React is a JavaScript library for building user interfaces. It is widely used for creating dynamic and interactive web applications. This guide will help you get started with React, including installation, setup, and understanding the initial project structure.
